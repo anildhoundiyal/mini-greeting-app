@@ -38,6 +38,7 @@ export function App() {
       {submitted && (
         <p style={{ color: "green", fontWeight: "bold" }}>
           ✅ Registration successful! Welcome, {name}!
+          <h1 style={{color:"white"}}>Wecome in Cepialabs</h1>
         </p>
       )}
 
