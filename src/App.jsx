@@ -35,7 +35,7 @@ export function App() {
   };
 
   return (
-    <div style={{ maxWidth: "430px", margin: "40px auto", fontFamily: "Arial, sans-serif", border: "1px solid #ddd", padding: "24px", borderRadius: "8px", background: "#f8f8f8" }}>
+    <div style={{ maxWidth: "430px", margin: "40px auto", fontFamily: "Arial, sans-serif", border: "1px solid #ddd", padding: "24px", borderRadius: "8px", background: "#333" }}>
       <h2 style={{ marginTop: 0 }}>Mini Greeting App 🎉</h2>
 
       {submitted ? (
